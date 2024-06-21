@@ -1,1 +1,1 @@
-# yhashim
+# Neuroscience data analysis course, Toronto
